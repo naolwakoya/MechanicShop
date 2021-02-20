@@ -1,6 +1,6 @@
 # MechanicShop
 
-The purpose of this model–view–controller design pattern is to build a large part of C++ object oriented program that emplyees will be able to add or remove customers and add or remove vehicles to Auto Mechanic management system Information   
+The purpose of this model–view–controller design pattern is to build a large part of C++ object oriented program that emplyees will be able to add or remove customers and add or remove vehicles to Auto Mechanic management system Information. Specifically, when the user asks to add a vehicle and after prompting the user for the id, also prompt the user for which type of vehicle they want to add. Based on that, the appropriate information is asked for, the appropriate object is created (using your new VehicleFactory ) and is added to that customer.   
 
 - How to Run
 1) make clean
